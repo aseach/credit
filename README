@@ -1,1 +1,1 @@
-This is the ReadMe
+A python-based program that validates credit card numbers using the Luhn algorithm. It checks card length, identifies common card types (AMEX, MasterCard, Visa), and prints out whether the card is valid or invalid. This project demonstrates basic algorithmic logic, error handling, and structured problem-solving in C.
